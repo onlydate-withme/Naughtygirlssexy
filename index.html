@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <title>FuckBook | Fucking Community!</title>
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap"
+    />
+    <link
+      href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/css/bootstrap.min.css"
+      integrity="sha512-MoRNloxbStBcD8z3M/2BmnT+rg4IsMxPkXaGh2zD6LGNNFE80W3onsAhRcMAMrSoyWL9xD7Ert0men7vR8LUZg=="
+      crossorigin="anonymous"
+    />
+    <link href="favicon.png" rel="shortcut icon" />
+    <style>
+      body {
+        padding: 0px;
+        margin: 0px;
+      }
+
+      header {
+        position: relative;
+        background-color: black;
+        height: 100vh;
+        min-height: 25rem;
+        width: 100%;
+        overflow: hidden;
+      }
+
+      header video {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        min-width: 100%;
+        min-height: 100%;
+        width: auto;
+        height: auto;
+        z-index: 0;
+        -ms-transform: translateX(-50%) translateY(-50%);
+        -moz-transform: translateX(-50%) translateY(-50%);
+        -webkit-transform: translateX(-50%) translateY(-50%);
+        transform: translateX(-50%) translateY(-50%);
+      }
+
+      header .container {
+        position: relative;
+        z-index: 2;
+      }
+
+      header .overlay {
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 100%;
+        width: 100%;
+        opacity: 0.5;
+        z-index: 1;
+      }
+
+      .btn {
+        border-radius: 10px;
+        box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),
+          0 17px 50px 0 rgba(0, 0, 0, 0.19);
+      }
+      .win,
+      .win:hover {
+        background-color: #ff0000;
+        border: 3px solid rgb(8, 0, 0);
+        box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.4);
+      }
+
+      .content_wrapper {
+        border: 5px solid #000;
+        background-color: rgba(253, 253, 253, 0.348);
+        margin: 16px auto 0;
+        max-width: 911px;
+        border-radius: 10px 10px 10px 10px;
+      }
+
+      .stars i {
+        color: #ffff00;
+      }
+
+      .stars span {
+        color: #ffff00;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <div class="overlay"></div>
+      <video
+        id="background-video"
+        class="video-background"
+        playsinline
+        autoplay
+        muted
+        loop
+      >
+        <source id="video-source" type="video/mp4" />
+      </video>
+      <div class="container h-100">
+        <div class="d-flex h-100 text-center align-items-center">
+          <div class="w-100 text-white">
+            <h1 style="color: #000">
+              <span id="njeblit"><strong> LIVE FREE CAMS </strong></span>
+            </h1>
+            <div class="stars">
+              <i class="fas fa-star"></i>
+              <i class="fas fa-star"></i>
+              <i class="fas fa-star"></i>
+              <i class="fas fa-star"></i>
+              <i class="fas fa-star"></i>
+              <span>( 5.0 )</span>
+            </div>
+            <hr
+              style="
+                margin: 3px;
+                padding: 3px 3px;
+                border: 0;
+                border-bottom: 0px dashed #ccc;
+              "
+            />
+            <script>
+              const videoSources = [
+                "https://faitzy.github.io/bgx/1x.mp4",
+                "https://faitzy.github.io/bg150/v6HO8HLv9NXLJYxJ%20(1).mp4",
+                "https://niestya.eu.org/T5XX/x.mp4",
+                "https://thumbsnap.com/i/Ckffd214.mp4",
+                "https://thumbsnap.com/i/Erp9ABJr.mp4",
+                "https://thumbsnap.com/i/j29vSUx7.mp4",
+              ];
+
+              const randomVideo =
+                videoSources[Math.floor(Math.random() * videoSources.length)];
+
+              const videoElement = document.getElementById("background-video");
+              const sourceElement = document.getElementById("video-source");
+
+              sourceElement.src = randomVideo;
+
+              videoElement.load();
+            </script>
+            <p style="color: #000" class="lead mb-0">
+              <strong>Horny Women Who Has Pretty Pussy Will Show you</strong>
+            </p>
+            <p>
+              <a
+                href="https://vnzloj.snapgirll.com/?utm_source=da57dc555e50572d&s1=174522&s2=2056589&click_id=LEUXDORRR"
+                class="btn btn-danger btn-lg mt-5 win"
+                >CONTINUE</a
+              >
+            </p>
+            <p style="color: #000" class="lead mb-0">
+              <img src="verified.png" style="width: 25px" /><strong>
+                This Program is verified !</strong
+              >
+            </p>
+            <hr
+              style="
+                margin: 3px;
+                padding: 3px 3px;
+                border: 0;
+                border-bottom: 0px dashed #ccc;
+              "
+            />
+          </div>
+        </div>
+      </div>
+    </header>
+  </body>
+</html>
